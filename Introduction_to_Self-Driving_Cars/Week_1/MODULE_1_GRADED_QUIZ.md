@@ -69,7 +69,7 @@ This task involves multiple considerations, which of them are **predictive plann
 - [x] The green car arrives at the stop sign after you and plans to  travel straight through the intersection. You choose to move first.
 - [ ] Gradually decelerate while reaching the stop sign
 <br>
-```
+```ruby
 if the conditions won't change with time, like the stop sign there, it would be reactive planning.
 if conditions change from time to time, like the coming car from the left and pedestrians crossing the zebra, it would be predictive planning
 ```
