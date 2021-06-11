@@ -123,9 +123,10 @@ if conditions change from time to time, like the coming car from the left and pe
 
 - [ ] Barometers
 - [x] GPS
-- [x] IMU
-- [x] LIDAR
-- [x] Cameras
+- [x] IMU, determin full position and attitude independently of the external world for short while in case all others fail
+- [x] LIDAR, create a pricise 3D image of the local surroundings
+- [x] Cameras, identify road markings, detect color,high-definition maps for localization
+- [x] Radar, for ranging targets, monitor traffic around the car-short range; oncoming traffic to warn overtaking traffic-long range 
 
 <br><br>
 
